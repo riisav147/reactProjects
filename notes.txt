@@ -1,0 +1,3 @@
+Boilerplate issue:
+- in software development, "Boilerplate" refers to code that is repetitive or generic, and needs to be 
+  written again and again for each project or component.
